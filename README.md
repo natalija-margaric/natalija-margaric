@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natalija-margaric
 - 👀 I’m interested in UX/UI design and mobile app developing.
-- 🌱 I’m currently learning flutter, dart and kotlin/java
+- 🌱 I’m currently learning flutter, dart and kotlin.
 
 <!---
 natalija-margaric/natalija-margaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
